@@ -220,7 +220,7 @@ My focus areas are **RTL design (50%)**, **FPGA implementation (30%)** and **des
 
 Follow along as the challenge progresses.
 
-- GitHub: `<your-username>`
-- LinkedIn: `<your-link>`
+- GitHub: Vlsi-Sandeep
+- LinkedIn: www.linkedin.com/in/sandeepchinnappagari
 
 If you spot a bug or have a suggestion, feel free to open an issue.
